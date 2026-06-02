@@ -1,0 +1,15 @@
+DAY 1 DATA QUALITY SUMMARY
+
+1. Loaded 3 datasets successfully.
+2. Fund Master: 40 rows, 15 columns.
+3. NAV History: 46,000 rows, 3 columns.
+4. Investor Transactions: 32,778 rows, 13 columns.
+
+Observations:
+- date columns stored as strings and require conversion.
+- transaction_date stored as string.
+- NAV values appear numeric.
+- AMFI code validation passed.
+- 10 fund houses identified.
+- 12 sub-categories identified.
+- 5 risk categories identified.
