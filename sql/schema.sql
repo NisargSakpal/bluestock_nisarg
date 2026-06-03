@@ -1,4 +1,4 @@
-CREATE TABLE dim_fund (
+    CREATE TABLE dim_fund (
     fund_id INTEGER PRIMARY KEY,
     amfi_code INTEGER UNIQUE,
     fund_name TEXT,
