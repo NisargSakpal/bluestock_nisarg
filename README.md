@@ -3,7 +3,7 @@
 ## 🎯 Project Overview 
 - This project analyses the mutual funds data using tools like Python , SQL Lite , Jupyter , Notebook and Power BI
 
-####📈 Project Covers :
+#### 📈 Project Covers :
 - ETL Pipeline
 - Data cleaning
 - EDA
@@ -43,5 +43,5 @@ processed
 - Final Report
 - Presentation
 
-  ##👨‍💻 Author
+  ## 👨‍💻 Author
   Nisarg Sakpal
